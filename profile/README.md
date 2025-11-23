@@ -7,6 +7,9 @@ If the main site is blocked or unavailable in your region, you can use one of th
 
 ## ✅ Active Stake Mirror Links
 
+[![Go to active mirror](https://img.shields.io/badge/Go_To-Active_Mirror-36c5ff?style=for-the-badge)](https://ссылка.ком)
+
+
 | Domain           | Link                                                |
 |------------------|-----------------------------------------------------|
 | stake.bet        | [Visit](https://stake.bet/?c=WlSSFUCl)              |
